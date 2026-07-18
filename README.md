@@ -21,7 +21,7 @@ Building scalable backend systems, secure APIs, cloud-native solutions, and AI-p
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://zain-portfolio-drab-two.vercel.app/">
+<a href="https://zain-alvi-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
