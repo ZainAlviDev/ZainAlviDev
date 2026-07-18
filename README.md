@@ -1,39 +1,60 @@
-# Hi 👋 I'm Zain Ul Abideen
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F6D9D,100:5D5F85&text=Zain%20Ul%20Abideen&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+</p>
 
-### Software Engineer • ASP.NET Core • .NET • Backend Developer
+<h1 align="center">👨‍💻 Hi 👋 I'm Zain Ul Abideen</h1>
 
-Building scalable backend systems, secure APIs, cloud-native solutions, and AI-powered applications.
+<h3 align="center">
+Software Engineer • ASP.NET Core • .NET • Backend Developer
+</h3>
 
 <p align="center">
-  <a href="mailto:zainabideen052@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+Building scalable backend systems, secure APIs, cloud-native solutions, and AI-powered applications.
+</p>
+
+<p align="center">
+<a href="mailto:zainabideen052@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/alvi-dev">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://zain-portfolio-drab-two.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ZainAlviDev">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 💻 Software Engineer specializing in **ASP.NET Core, .NET, C#, and Backend Development**
-- 🚀 Passionate about building scalable, secure, and high-performance applications
-- 🤖 Experienced in integrating **OpenAI APIs**, AI Chatbots, Speech-to-Text, Text-to-Speech, and Intelligent Automation
-- 🏗 Strong knowledge of **Clean Architecture, Microservices, CQRS, Repository Pattern, and Event-Driven Architecture**
-- ☁️ Experience with **Azure, Docker, CI/CD Pipelines, and Cloud-Native Development**
-- 🌱 Currently learning **Python, FastAPI, Machine Learning, AI Agents, and Large Language Models (LLMs)**
-- 💬 Ask me about **ASP.NET Core, Web APIs, Entity Framework Core, SQL Server, PostgreSQL, JWT Authentication, RabbitMQ, Azure, and System Design**
-- 🌍 Open to **Remote Opportunities, Freelance Projects, and Open Source Collaboration**
+💻 Software Engineer specializing in **ASP.NET Core, .NET, C#, and Backend Development**
+
+🚀 Passionate about building scalable, secure, and high-performance applications.
+
+🤖 Experienced in integrating **OpenAI APIs, AI Chatbots, Speech-to-Text, Text-to-Speech, AI Agents, and Intelligent Automation** into real-world applications.
+
+🏗 Strong knowledge of **Clean Architecture, Microservices, Repository Pattern, CQRS, Event-Driven Architecture, and SOLID Principles.**
+
+☁ Experienced with **Azure, Docker, CI/CD Pipelines, GitHub Actions, and Cloud-Native Development.**
+
+🌱 Currently learning **Python, FastAPI, Machine Learning, AI Agents, and Large Language Models (LLMs).**
+
+💬 Ask me about **ASP.NET Core, REST APIs, Entity Framework Core, SQL Server, PostgreSQL, RabbitMQ, Azure, JWT Authentication, SignalR, Hangfire, and System Design.**
+
+🌍 Open to **Remote Opportunities, Freelance Projects, and Open Source Collaboration.**
 
 ---
 
 # ⚡ Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 
 - C#
 - SQL
@@ -42,30 +63,30 @@ Building scalable backend systems, secure APIs, cloud-native solutions, and AI-p
 - HTML5
 - CSS3
 
-### ⚙️ Backend
+## ⚙ Backend
 
 - ASP.NET Core
 - .NET 6 / 7 / 8 / 9 / 10
 - Web API
-- Minimal APIs
+- Minimal API
 - Entity Framework Core
 - Dapper
 - ASP.NET MVC
 - Razor Pages
 
-### 🏗 Architecture
+## 🏗 Architecture
 
 - Clean Architecture
 - Microservices
 - CQRS
 - Repository Pattern
-- Dependency Injection
 - Event-Driven Architecture
+- Dependency Injection
 - SOLID Principles
 - JWT Authentication
-- Role-Based Access Control (RBAC)
+- RBAC
 
-### 🤖 AI & Automation
+## 🤖 AI & Automation
 
 - OpenAI API
 - AI Chatbots
@@ -75,20 +96,20 @@ Building scalable backend systems, secure APIs, cloud-native solutions, and AI-p
 - Text-to-Speech
 - LLM Integration
 
-### 📨 Messaging
+## 📨 Messaging
 
 - RabbitMQ
 - MassTransit
 - SignalR
 - Hangfire
 
-### 🗄 Databases
+## 🗄 Database
 
 - SQL Server
 - PostgreSQL
 - MySQL
 
-### ☁ Cloud & DevOps
+## ☁ Cloud & DevOps
 
 - Microsoft Azure
 - Azure DevOps
@@ -96,7 +117,7 @@ Building scalable backend systems, secure APIs, cloud-native solutions, and AI-p
 - GitHub Actions
 - CI/CD Pipelines
 
-### 🛠 Tools
+## 🛠 Tools
 
 - Visual Studio
 - VS Code
@@ -112,11 +133,11 @@ Building scalable backend systems, secure APIs, cloud-native solutions, and AI-p
 
 ## 🤖 AI Code Interview Platform
 
-- AI-powered mock interviews
-- Resume Analysis
-- Coding Challenges
+- AI-powered Coding Interviews
 - OpenAI Integration
+- Resume Analysis
 - Real-time AI Feedback
+- Coding Challenges
 
 ---
 
@@ -145,10 +166,9 @@ Building scalable backend systems, secure APIs, cloud-native solutions, and AI-p
 
 - ASP.NET Core APIs
 - JWT Authentication
-- Role-Based Authorization
 - SQL Server
 - Payment Integration
-- Microservices
+- Microservice Architecture
 
 ---
 
@@ -156,45 +176,63 @@ Building scalable backend systems, secure APIs, cloud-native solutions, and AI-p
 
 ### Master of Science (MS) – Computer Science
 
-**National College of Business Administration & Economics (NCBA&E)**
+🏫 **National College of Business Administration & Economics (NCBA&E)**
 
 📅 **October 2025 – October 2027**
 
-Focused on Software Engineering, Artificial Intelligence, Machine Learning, Cloud Computing, Distributed Systems, and Modern Software Architecture.
+Focused on:
+
+- Artificial Intelligence
+- Machine Learning
+- Cloud Computing
+- Software Engineering
+- Distributed Systems
+- Modern Software Architecture
 
 ---
 
 # 📈 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZainAlviDev&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ZainAlviDev&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainAlviDev&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always interested in collaborating on **Backend Development, AI Integration, SaaS Products, Cloud Solutions, Open Source Projects, Remote Opportunities, and Freelance Projects.**
+I'm always interested in collaborating on:
+
+- 🚀 Backend Development
+- 🤖 AI Integration
+- ☁ Cloud Solutions
+- SaaS Products
+- Remote Opportunities
+- Freelance Projects
+- Open Source Collaboration
 
 📧 **Email:** **zainabideen052@gmail.com**
 
-💼 **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+💼 **LinkedIn:** https://www.linkedin.com/in/alvi-dev
 
-🐙 **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
+🌐 **Portfolio:** https://zain-portfolio-drab-two.vercel.app/
 
-🌐 **Portfolio:** https://YOUR_PORTFOLIO_URL
+🐙 **GitHub:** https://github.com/ZainAlviDev
 
 ---
 
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=ASP.NET+Core+Developer;Backend+Engineer;AI+Enthusiast;Cloud+Native+Developer;Always+Learning+New+Technologies"/>
+</p>
 
-### ⭐ Thanks for visiting my profile!
-
-*"Building scalable software today while shaping the future with Artificial Intelligence."*
-
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+<br><br>
+<i>"Building scalable software today while shaping the future with Artificial Intelligence."</i>
 </p>
