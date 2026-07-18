@@ -209,7 +209,7 @@ I'm always interested in collaborating on:
 
 💼 **LinkedIn:** https://www.linkedin.com/in/alvi-dev
 
-🌐 **Portfolio:** https://zain-portfolio-drab-two.vercel.app/
+🌐 **Portfolio:** https://zain-alvi-portfolio.vercel.app//
 
 🐙 **GitHub:** https://github.com/ZainAlviDev
 
