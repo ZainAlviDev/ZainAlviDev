@@ -1,226 +1,56 @@
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F6D9D,100:5D5F85&text=Zain%20Ul%20Abideen&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
-</p>
-
-<h1 align="center">👨‍💻 Hi 👋 I'm Zain Ul Abideen</h1>
-
-<h3 align="center">
-Software Engineer • ASP.NET Core • .NET • Backend Developer
-</h3>
+<h1 align="center">Hi 👋 I'm Zain Ul Abideen</h1>
+<h3 align="center">.NET Full Stack Developer · C# · ASP.NET Core · Microservices · RabbitMQ · Angular & React</h3>
 
 <p align="center">
-Building scalable backend systems, secure APIs, cloud-native solutions, and AI-powered applications.
-</p>
-
-<p align="center">
-<a href="mailto:zainabideen052@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/alvi-dev">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://zain-alvi-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ZainAlviDev">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/alvi-dev"><img src="https://img.shields.io/badge/LinkedIn-alvi--dev-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://zain-alvi-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-512BD4?logo=vercel&logoColor=white" /></a>
+  <a href="mailto:zainabideen052@gmail.com"><img src="https://img.shields.io/badge/Email-zainabideen052%40gmail.com-EA4335?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-💻 Software Engineer specializing in **ASP.NET Core, .NET, C#, and Backend Development**
+- 💼 Software Engineer at **Techverx** (Lahore). 3+ years building enterprise .NET applications; promoted from Associate Software Engineer to Software Engineer within 8 months.
+- 🏥 Build .NET microservices behind an **Ocelot API Gateway** that integrate US healthcare transportation, claims and referral systems with **Microsoft Dynamics 365 CRM**.
+- 🔁 Design idempotent, event-driven sync flows with **RabbitMQ (MassTransit)**, background workers and Hangfire.
+- 🖥 Full stack: ASP.NET Core APIs with **Angular**, **React** and **Blazor** frontends.
+- 🤖 Use AI-assisted development daily (Claude, ChatGPT) and am building LLM integrations into .NET services (see SupportFlow below).
+- 🌍 Open to .NET / Backend / Full Stack roles: on-site or remote in Pakistan, and remote internationally.
 
-🚀 Passionate about building scalable, secure, and high-performance applications.
+## ⚡ Tech Stack
 
-🤖 Experienced in integrating **OpenAI APIs, AI Chatbots, Speech-to-Text, Text-to-Speech, AI Agents, and Intelligent Automation** into real-world applications.
+| Area | Tools |
+|---|---|
+| **Backend** | C#, .NET, ASP.NET Core, Web API, MVC, Entity Framework Core, LINQ, Dapper, SignalR, WPF |
+| **Architecture** | Microservices, Clean Architecture, CQRS / MediatR, Event-Driven, SOLID, Multi-Tenant |
+| **Messaging & Jobs** | RabbitMQ, MassTransit, Background Workers, Hangfire, Redis |
+| **Databases** | SQL Server, PostgreSQL, MySQL, MongoDB |
+| **Security** | JWT, OAuth 2.0, Keycloak, RBAC |
+| **Frontend** | Angular, React, Blazor, Next.js, TypeScript |
+| **DevOps & Tools** | Docker, Docker Compose, Azure DevOps CI/CD, Git, Serilog, Grafana Loki, Swagger, Postman |
+| **AI** | OpenAI API / LLM integration, prompt engineering, AI-assisted development |
 
-🏗 Strong knowledge of **Clean Architecture, Microservices, Repository Pattern, CQRS, Event-Driven Architecture, and SOLID Principles.**
+## 🚀 Personal Projects
 
-☁ Experienced with **Azure, Docker, CI/CD Pipelines, GitHub Actions, and Cloud-Native Development.**
+| Project | What it is | Stack |
+|---|---|---|
+| [**SupportFlow**](https://github.com/ZainAlviDev/SupportFlow) | AI customer-support SaaS: 8 microservices (Identity, Workspace, Conversation, Ticket, Customer, Knowledge, AI, Notification) behind an API Gateway | .NET, Clean Architecture, MediatR, EF Core, PostgreSQL, Redis, Docker |
+| [**BijliGuard**](https://github.com/ZainAlviDev/BijliGuard) | Electricity usage tracker for Pakistani households: stay under 200 units a month | .NET Clean Architecture, unit tests, Next.js, React Native (Expo) |
+| **MediCore AI** *(private, in progress)* | Enterprise hospital management system: YARP gateway + Identity, Patient, Appointment, EMR, Lab, Pharmacy, Billing, Inventory services | .NET, Microservices, YARP, EF Core, Docker |
+| [**Employee Tracking System**](https://github.com/ZainAlviDev/EmployeeTrackingSystem) | Desktop employee tracking app | C#, WPF, SQL Server |
 
-🌱 Currently learning **Python, FastAPI, Machine Learning, AI Agents, and Large Language Models (LLMs).**
+## 🏢 Professional Work (private codebases)
 
-💬 Ask me about **ASP.NET Core, REST APIs, Entity Framework Core, SQL Server, PostgreSQL, RabbitMQ, Azure, JWT Authentication, SignalR, Hangfire, and System Design.**
+- **CIS CRM / HSV (Techverx):** .NET microservices + Dynamics 365 CRM integration, Business Rules Engine for quotes, bills and pricing, RabbitMQ sync, Serilog + Grafana Loki logging.
+- **POS System (Techverx):** sales, orders, products and payments modules with ASP.NET Core and SQL Server.
+- **Hrango (Top Edge Technologies):** HRMS modules: chat, support, survey builder, approvals, shift scheduling.
+- **BankMind (DukanLay):** US-based loan application platform with Blazor, ASP.NET Core, RabbitMQ and SignalR.
 
-🌍 Open to **Remote Opportunities, Freelance Projects, and Open Source Collaboration.**
+## 🎓 Education
 
----
-
-# ⚡ Tech Stack
-
-## 💻 Languages
-
-- C#
-- SQL
-- JavaScript
-- Python
-- HTML5
-- CSS3
-
-## ⚙ Backend
-
-- ASP.NET Core
-- .NET 6 / 7 / 8 / 9 / 10
-- Web API
-- Minimal API
-- Entity Framework Core
-- Dapper
-- ASP.NET MVC
-- Razor Pages
-
-## 🏗 Architecture
-
-- Clean Architecture
-- Microservices
-- CQRS
-- Repository Pattern
-- Event-Driven Architecture
-- Dependency Injection
-- SOLID Principles
-- JWT Authentication
-- RBAC
-
-## 🤖 AI & Automation
-
-- OpenAI API
-- AI Chatbots
-- Prompt Engineering
-- AI Agents
-- Speech-to-Text
-- Text-to-Speech
-- LLM Integration
-
-## 📨 Messaging
-
-- RabbitMQ
-- MassTransit
-- SignalR
-- Hangfire
-
-## 🗄 Database
-
-- SQL Server
-- PostgreSQL
-- MySQL
-
-## ☁ Cloud & DevOps
-
-- Microsoft Azure
-- Azure DevOps
-- Docker
-- GitHub Actions
-- CI/CD Pipelines
-
-## 🛠 Tools
-
-- Visual Studio
-- VS Code
-- Git
-- GitHub
-- Swagger
-- Postman
-- Docker
+- **MS Computer Science**, NCBA&E Lahore (in progress)
 
 ---
 
-# 🚀 Featured Projects
-
-## 🤖 AI Code Interview Platform
-
-- AI-powered Coding Interviews
-- OpenAI Integration
-- Resume Analysis
-- Real-time AI Feedback
-- Coding Challenges
-
----
-
-## 🏢 CRM & Property Management Platform
-
-- Secure REST APIs
-- Authentication & Authorization
-- Booking Management
-- SQL Optimization
-- Clean Architecture
-
----
-
-## 🏥 Common Central Framework
-
-- Multi-Tenant Architecture
-- RabbitMQ
-- MassTransit
-- PostgreSQL
-- Dynamic Import & Export
-- Modular Services
-
----
-
-## 💰 Loan Management Platform
-
-- ASP.NET Core APIs
-- JWT Authentication
-- SQL Server
-- Payment Integration
-- Microservice Architecture
-
----
-
-# 🎓 Education
-
-### Master of Science (MS) – Computer Science
-
-🏫 **National College of Business Administration & Economics (NCBA&E)**
-
-📅 **October 2025 – October 2027**
-
-Focused on:
-
-- Artificial Intelligence
-- Machine Learning
-- Cloud Computing
-- Software Engineering
-- Distributed Systems
-- Modern Software Architecture
-
----
-
-
-
-# 🤝 Let's Connect
-
-I'm always interested in collaborating on:
-
-- 🚀 Backend Development
-- 🤖 AI Integration
-- ☁ Cloud Solutions
-- SaaS Products
-- Remote Opportunities
-- Freelance Projects
-- Open Source Collaboration
-
-📧 **Email:** **zainabideen052@gmail.com**
-
-💼 **LinkedIn:** https://www.linkedin.com/in/alvi-dev
-
-🌐 **Portfolio:** https://zain-alvi-portfolio.vercel.app//
-
-🐙 **GitHub:** https://github.com/ZainAlviDev
-
----
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=ASP.NET+Core+Developer;Backend+Engineer;AI+Enthusiast;Cloud+Native+Developer;Always+Learning+New+Technologies"/>
-</p>
-
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-<br><br>
-<i>"Building scalable software today while shaping the future with Artificial Intelligence."</i>
-</p>
+<p align="center"><i>Design every operation as if it will run twice, because eventually it will.</i></p>
